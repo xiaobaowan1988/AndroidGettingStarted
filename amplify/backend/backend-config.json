@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "androidgettingstartec70d48af": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
